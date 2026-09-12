@@ -7,7 +7,7 @@ Clawd sits in the corner of your desktop, notices which window is in front of yo
 ![Clawd is not cool with 3D printing vid](cool.gif)
 
 > ### 🚧 In development
-![Clawd's plan](plan.gif)
+![Clawd's plan](plan.png)
 >
 > This is a working prototype, not a finished product. It runs, but there are
 > rough edges and known bugs — see [Status](#status). Built in the open as a
