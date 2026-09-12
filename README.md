@@ -1,10 +1,10 @@
 # Clawd
 
 **A pixel study companion who reads what is actually on your screen — and says something only someone who saw it could say.**
-![Clawd approves](clawd_paper.png)
+![Clawd approves](roll.gif)
 Clawd sits in the corner of your desktop, notices which window is in front of you, and reacts to the *content* of it. He praises the specific thing you just got through, calls out the specific thing you wandered off to, and can quiz you on the page you are looking at right now without you ever leaving it.
 ![Clawd doesn't approve watching gameplay](mad.gif)
-![demoman](tf2_clawd.png)
+![Clawd is not cool with 3D printing vid](cool.png)
 > ### 🚧 In development
 >
 > This is a working prototype, not a finished product. It runs, but there are
