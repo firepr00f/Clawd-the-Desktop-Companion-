@@ -2,10 +2,11 @@
 
 **A pixel study companion who reads what is actually on your screen — and says something only someone who saw it could say.**
 ![Clawd and Firework](fire.gif)
+
 Clawd sits in the corner of your desktop, notices which window is in front of you, and reacts to the *content* of it. He praises the specific thing you just got through, calls out the specific thing you wandered off to, and can quiz you on the page you are looking at right now without you ever leaving it.
 ![Clawd approves](roll.gif)
+
 ![Clawd doesn't approve watching gameplay](tf2.gif)
-![Clawd is not cool with 3D printing vid](cool.gif)
 
 > ### 🚧 In development
 
@@ -76,6 +77,8 @@ Clicking him earns back exactly one step of the decay, not a reset.
 ---
 
 ## Features
+
+![Clawd is not cool with 3D printing vid](cool.gif)
 
 **Reads the window**
 
