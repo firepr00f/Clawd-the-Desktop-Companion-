@@ -41,9 +41,9 @@ Clawd reads the screen, not the clock. What comes back is specific:
 
 The design aim is three specific feelings, in the order they actually land:
 
-- **Conscience (양심)** — the difference between being *counted* and being *seen*. A nag that names the thing you abandoned, and where you abandoned it, is hard to dismiss the way a notification badge is.
-- **Achievement (성취감)** — praise that describes the actual material is evidence you did something. Praise that fits any session at all is evidence of nothing.
-- **Camaraderie (동지애)** — he is a character with moods who is *present* during the work, not a dashboard you review after it. He gets visibly more disappointed the longer you stay away, and visibly pleased when you come back.
+- **Conscience** — the difference between being *counted* and being *seen*. A nag that names the thing you abandoned, and where you abandoned it, is hard to dismiss the way a notification badge is.
+- **Achievement** — praise that describes the actual material is evidence you did something. Praise that fits any session at all is evidence of nothing.
+- **Camaraderie** — he is a character with moods who is *present* during the work, not a dashboard you review after it. He gets visibly more disappointed the longer you stay away, and visibly pleased when you come back.
 
 There is no score, no streak counter to protect, no gamified currency — those measure compliance with the app. Clawd only ever reacts to the work.
 
