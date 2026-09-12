@@ -1,0 +1,7 @@
+# Clawd runs on the Python standard library alone (tkinter + ctypes + urllib).
+# The tray icon needs nothing either — it is ctypes talking to Shell_NotifyIcon.
+#
+# These two are only needed for screenshots, which is what double-clicking him
+# uses to read your screen. Without them he still runs and says so in clawd.log.
+mss>=9.0.1
+Pillow>=10.0.0

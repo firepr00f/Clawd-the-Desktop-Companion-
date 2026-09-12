@@ -1,0 +1,42 @@
+{
+  "_readme": [
+    "Copy this file to schedule.json and put your own timetable in it.",
+    "schedule.json is in .gitignore, so what you write there stays on your disk.",
+    "Clawd re-reads it whenever it changes — no restart needed.",
+    "Right-click him -> 'edit schedule.json' opens it, 'today's briefing' shows it.",
+    "",
+    "courses / shifts: repeat weekly.",
+    "  days  = any of mon tue wed thu fri sat sun",
+    "  start = 24-hour HH:MM. He says something 25 minutes before one starts.",
+    "",
+    "deadlines: one-off, and what he actually nags about.",
+    "  due  = 'YYYY-MM-DD HH:MM', or 'YYYY-MM-DD' for the end of that day (23:59)",
+    "  done = true makes him forget it without you deleting the line",
+    "  Nagging order, worst first: overdue -> due today -> due within",
+    "  deadline_horizon_days (config.json, default 3). One at a time, never a list.",
+    "",
+    "todos: no date. He pokes you about a random one every todo_poke_hours.",
+    "",
+    "The dates below are in the past on purpose, so a fresh copy nags at nobody."
+  ],
+
+  "courses": [
+    { "name": "Course A", "days": ["mon", "wed"], "start": "09:00" },
+    { "name": "Course B", "days": ["tue", "thu"], "start": "13:00" },
+    { "name": "Lab", "days": ["fri"], "start": "15:00" }
+  ],
+
+  "shifts": [
+    { "title": "part-time", "days": ["sat"], "start": "10:00" }
+  ],
+
+  "deadlines": [
+    { "title": "Problem set 3", "due": "2020-03-13 23:59", "done": false },
+    { "title": "Quiz — Course A", "due": "2020-03-16 10:00", "done": false },
+    { "title": "Lab report 1", "due": "2020-03-06", "done": true }
+  ],
+
+  "todos": [
+    { "title": "email about the deadline extension", "done": false }
+  ]
+}
