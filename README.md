@@ -4,7 +4,7 @@
 ![Clawd approves](clawd_paper.png)
 Clawd sits in the corner of your desktop, notices which window is in front of you, and reacts to the *content* of it. He praises the specific thing you just got through, calls out the specific thing you wandered off to, and can quiz you on the page you are looking at right now without you ever leaving it.
 ![Clawd doesn't approve watching gameplay](mad.gif)
-
+![demoman](tf2_clawd.png)
 > ### 🚧 In development
 >
 > This is a working prototype, not a finished product. It runs, but there are
