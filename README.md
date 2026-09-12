@@ -1,13 +1,14 @@
 # Clawd
 
 **A pixel study companion who reads what is actually on your screen — and says something only someone who saw it could say.**
-![Clawd approves](roll.gif)
+![Clawd and Firework](fire.gif)
 Clawd sits in the corner of your desktop, notices which window is in front of you, and reacts to the *content* of it. He praises the specific thing you just got through, calls out the specific thing you wandered off to, and can quiz you on the page you are looking at right now without you ever leaving it.
+![Clawd approves](roll.gif)
 ![Clawd doesn't approve watching gameplay](tf2.gif)
 ![Clawd is not cool with 3D printing vid](cool.gif)
 
 > ### 🚧 In development
-![Clawd's plan](plan.png)
+
 >
 > This is a working prototype, not a finished product. It runs, but there are
 > rough edges and known bugs — see [Status](#status). Built in the open as a
@@ -33,7 +34,7 @@ Clawd is an attempt at the opposite: a companion whose reactions are only possib
 ### 1. Context, not a countdown
 
 Clawd reads the screen, not the clock. What comes back is specific:
-
+![Clawd's plan](plan.png)
 | A scheduler says | Clawd says |
 | --- | --- |
 | "Great job! Keep it up!" | "40 minutes on Laplace transforms without flinching. the partial fractions bit is the annoying part and you just did four of them." |
@@ -48,6 +49,8 @@ The design aim is three specific feelings, in the order they actually land:
 There is no score, no streak counter to protect, no gamified currency — those measure compliance with the app. Clawd only ever reacts to the work.
 
 ### 2. A quiz on this page, right now, without leaving it
+
+![Clawd gives you a pop quiz](quiz.gif)
 
 Checking whether you actually absorbed something normally costs more attention than the checking is worth:
 
